@@ -52,9 +52,3 @@ Here are some sample views from the Power BI dashboard:
 
 ### 3. Monthly & Product Performance
 ![Pizza Sales Overview](https://github.com/ShadySaad2001/PIzza-Sales-Analysis-Sql-Power-bi-/blob/main/Pizza%203.png)
-
-## 🚀 How to Use
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/pizza-sales-analysis.git
