@@ -45,7 +45,7 @@ The dashboard includes:
 Here are some sample views from the Power BI dashboard:
 
 ### 1. Overview Metrics
-![Pizza Sales Overview](images/dashboard_screenshots/pizza_sales_overview.png)
+![Pizza Sales Overview]([images/dashboard_screenshots/pizza_sales_overview.png](https://github.com/ShadySaad2001/PIzza-Sales-Analysis-Sql-Power-bi-/blob/4b19b28349ba55f11f98b25df1e5bad738b66b7e/Pizza%201.png))
 
 ### 2. Category & Size Analysis
 ![Category and Size Breakdown](images/dashboard_screenshots/category_size_analysis.png)
